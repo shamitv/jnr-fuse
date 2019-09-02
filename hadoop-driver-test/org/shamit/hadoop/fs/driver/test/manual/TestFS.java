@@ -14,10 +14,8 @@ import ru.serce.jnrfuse.struct.FuseFileInfo;
 import java.nio.file.Paths;
 import java.util.Objects;
 
-/**
- * @author Sergey Tselovalnikov
- * @see <a href="http://fuse.sourceforge.net/helloworld.html">helloworld</a>
- * @since 31.05.15
+/* 
+ * 
  */
 public class TestFS extends FuseStubFS {
 
